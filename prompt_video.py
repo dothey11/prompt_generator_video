@@ -1,6 +1,6 @@
 ﻿import streamlit as st
 
-st.set_page_config(page_title="Prompt Generator VEO 3", layout="wide")
+st.set_page_config(page_title="Prompt Generator Video", layout="wide")
 
 st.title("🎬 Generator Prompt Video - By Dothey")
 st.markdown("Isi detail berikut untuk menciptakan prompt video yang kaya dan spesifik.")
