@@ -2,7 +2,7 @@
 
 st.set_page_config(page_title="Prompt Generator VEO 3", layout="wide")
 
-st.title("🎬 Generator Prompt Video VEO 3")
+st.title("🎬 Generator Prompt Video - By Dothey")
 st.markdown("Isi detail berikut untuk menciptakan prompt video yang kaya dan spesifik.")
 
 with st.form("prompt_form"):
